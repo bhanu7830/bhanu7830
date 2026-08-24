@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bhanuyadav">
+  <a href="https://github.com/bhanu7830">
     <img src="https://img.shields.io/badge/GitHub-Bhanu%20Yadav-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=bhanuyadav&style=for-the-badge&color=blue" alt="Profile Views"/>
