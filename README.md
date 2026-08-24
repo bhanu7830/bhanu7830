@@ -33,7 +33,9 @@ public class Bhanu {
     };
 
     String[] interests = {
-        "Backend Development",
+        "Kubernetes",
+        "Jenkins",
+        "Docker Desktop",
         "DevOps",
         "Software Engineering",
     };
@@ -41,7 +43,6 @@ public class Bhanu {
     String currentlyLearning =
         "DSA • Problem Solving";
 }
-```
 # 🚀 Featured Projects
 
 <table>
@@ -51,90 +52,82 @@ public class Bhanu {
 
 <td width="50%" valign="top">
 
-<h2 align="center">🛡️ Log Monitord</h2>
+<h2 align="center">🛡️ Automated Log Monitoring</h2>
 
 <p align="center">
-<a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
-<img src="https://raw.githubusercontent.com/arjunsingh-rana/ML-Phishing-Website-Detection/main/screenshots/home.png" width="100%">
+<a href="https://github.com/bhanuyadav/Automated-Log-Monitoring">
+<img src="https://raw.githubusercontent.com/bhanuyadav/Automated-Log-Monitoring/main/screenshots/dashboard.png" width="100%" alt="Log Monitoring Dashboard">
 </a>
 </p>
 
 <p>
-Machine Learning-based phishing website detection system that analyzes and extract the URL features using a Random Forest classifier to identify whether a website is legitimate or phishing.
+Autonomous observability and fault detection platform that performs real-time log parsing, anomaly classification, and self-healing recovery within ~2.5s MTTR.
 </p>
 
 <h3>✨ Key Features</h3>
 
 <ul>
-<li>URL Feature Engineering</li>
-<li>Random Forest Classifier</li>
-<li>Flask Web Application</li>
-<li>Confidence Score Prediction</li>
-<li>Modern Cybersecurity Dashboard</li>
-<li>Phishing Risk Classification</li>
-<li>Real-Time URL Analysis</li>
+<li>Continuous Application Log Ingestion</li>
+<li>Real-Time Anomaly & Fault Detection</li>
+<li>Autonomous Self-Healing Engine</li>
+<li>Incident Audit Trail & History</li>
+<li>Observability Dashboard & Telemetry</li>
+<li>Container & Health Probe Management</li>
+<li>CI/CD Deployment & Rollback Controls</li>
 </ul>
 
 <h3>🛠️ Tech Stack</h3>
 
 <p>
-Python · Flask · Scikit-learn · HTML · CSS · JavaScript
+Node.js · Express · React · Vite · Docker · Jenkins · REST API
 </p>
 
 <p align="center">
-<a href="https://github.com/arjunsingh-rana/ML-Phishing-Website-Detection">
+<a href="https://github.com/bhanuyadav/Automated-Log-Monitoring">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://ml-phishing-website-detection-eight.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
 
 </td>
 
 
-<!-- ==================== RESUMEIQ ==================== -->
+<!-- ==================== AI RESEARCH ASSISTANT ==================== -->
 
 <td width="50%" valign="top">
 
-<h2 align="center">📄 ResumeIQ</h2>
+<h2 align="center">🔎 AI Research Assistant</h2>
 
 <p align="center">
-<a href="https://github.com/arjunsingh-rana/ResumeIQ">
-<img src="https://raw.githubusercontent.com/arjunsingh-rana/ResumeIQ/main/assets/resumeiq-home.png" width="100%">
+<a href="https://github.com/bhanuyadav/AgenticAi">
+<img src="https://raw.githubusercontent.com/bhanuyadav/AgenticAi/main/assets/demo.png" width="100%" alt="AI Research Assistant Banner">
 </a>
 </p>
 
 <p>
-AI-powered resume analyzer and ATS auditor that evaluates resumes against target roles, calculates ATS compatibility scores, identifies skill gaps, and provides actionable recommendations.
+Autonomous agentic AI system that dynamically decides between internal knowledge retrieval and real-time DuckDuckGo web scraping to synthesize cited answers.
 </p>
 
 <h3>✨ Key Features</h3>
 
 <ul>
-<li>PDF Resume Upload &amp; Text Parsing</li>
-<li>Role-Targeted Resume Evaluation</li>
-<li>ATS Compatibility Scoring</li>
-<li>Technical Skills &amp; Keyword Gap Analysis</li>
-<li>AI-Powered Bullet Rewriting</li>
-<li>Multi-LLM &amp; Heuristic Analysis</li>
-<li>Automated Email Reports</li>
+<li>Autonomous Tool-Use & Rationale Routing</li>
+<li>DuckDuckGo Web Search Integration</li>
+<li>Deep Page Content Scraper</li>
+<li>Confidence Scoring & Reasoning Heuristics</li>
+<li>Interactive Streamlit Web Dashboard</li>
+<li>Interactive Rich Terminal CLI</li>
+<li>Multi-Provider Support (Gemini, OpenAI, Groq)</li>
 </ul>
 
 <h3>🛠️ Tech Stack</h3>
 
 <p>
-Python · Flask · HTML · CSS · JavaScript · OpenAI · Google Gemini
+Python · Streamlit · Rich · DuckDuckGo API · Google Gemini · OpenAI
 </p>
 
 <p align="center">
-<a href="https://github.com/arjunsingh-rana/ResumeIQ">
+<a href="https://github.com/bhanuyadav/AgenticAi">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="https://resume-iq-pink-six.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
 
@@ -142,8 +135,6 @@ Python · Flask · HTML · CSS · JavaScript · OpenAI · Google Gemini
 
 </tr>
 </table>
-
----
 
 # 🚀 Tech Stack
 
